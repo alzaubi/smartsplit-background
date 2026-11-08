@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "updated": "2026-11-08",
+  "baseUrl": "https://github.com/alzaubi/smartsplit-background/releases/download/background/",
+  "items": [
+    {"id":"alpine-lake","title":"Alpine Lake","type":"image","file":"02-alpine-lake-normal-1907x720.png","preview":"02-alpine-lake-normal-1907x720.png","width":1907,"height":720},
+    {"id":"forest-waterfall","title":"Forest Waterfall","type":"image","file":"04-forest-waterfall-normal-1907x720.png","preview":"04-forest-waterfall-normal-1907x720.png","width":1907,"height":720},
+    {"id":"autumn-valley","title":"Autumn Valley","type":"image","file":"05-autumn-valley-normal-1907x720.png","preview":"05-autumn-valley-normal-1907x720.png","width":1907,"height":720},
+    {"id":"kuwait-city","title":"Kuwait City","type":"image","file":"06-kuwait-city-normal-1907x720.png","preview":"06-kuwait-city-normal-1907x720.png","width":1907,"height":720},
+    {"id":"dubai-city","title":"Dubai City","type":"image","file":"07-dubai-city-normal-1907x720.png","preview":"07-dubai-city-normal-1907x720.png","width":1907,"height":720},
+    {"id":"canyon-road","title":"Canyon Road","type":"image","file":"08-canyon-straight-road-normal-1907x720.png","preview":"08-canyon-straight-road-normal-1907x720.png","width":1907,"height":720},
+    {"id":"forest-road","title":"Forest Road","type":"image","file":"09-forest-straight-road-normal-1907x720.png","preview":"09-forest-straight-road-normal-1907x720.png","width":1907,"height":720},
+    {"id":"snow-road","title":"Snow Road","type":"image","file":"10-snow-straight-road-normal-1907x720.png","preview":"10-snow-straight-road-normal-1907x720.png","width":1907,"height":720},
+    {"id":"desert-road","title":"Desert Road","type":"image","file":"11-desert-straight-road-normal-1907x720.png","preview":"11-desert-straight-road-normal-1907x720.png","width":1907,"height":720},
+    {"id":"autumn-road","title":"Autumn Road","type":"image","file":"12-autumn-straight-road-normal-1907x720.png","preview":"12-autumn-straight-road-normal-1907x720.png","width":1907,"height":720},
+    {"id":"riyadh-boulevard","title":"Riyadh Boulevard","type":"image","file":"13-riyadh-straight-boulevard-normal-1907x720.png","preview":"13-riyadh-straight-boulevard-normal-1907x720.png","width":1907,"height":720},
+    {"id":"space-blue-planet","title":"Blue Planet","type":"image","file":"14-space-blue-planet-normal-1907x720.png","preview":"14-space-blue-planet-normal-1907x720.png","width":1907,"height":720},
+    {"id":"abstract-blue-waves","title":"Abstract Blue Waves","type":"image","file":"15-abstract-blue-waves-normal-1907x720.png","preview":"15-abstract-blue-waves-normal-1907x720.png","width":1907,"height":720},
+    {"id":"motion-blue-waves","title":"Motion Blue Waves","type":"video","file":"loop-abstract-blue-waves-1920x720.mp4","preview":"15-abstract-blue-waves-normal-1907x720.png","width":1920,"height":720,"duration":8},
+    {"id":"motion-blue-planet","title":"Motion Blue Planet","type":"video","file":"loop-space-blue-planet-1920x720.mp4","preview":"14-space-blue-planet-normal-1907x720.png","width":1920,"height":720,"duration":8},
+    {"id":"motion-waterfall","title":"Motion Forest Waterfall","type":"video","file":"loop-forest-waterfall-1920x720.mp4","preview":"04-forest-waterfall-normal-1907x720.png","width":1920,"height":720,"duration":8}
+  ]
+}
