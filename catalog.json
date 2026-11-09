@@ -24,6 +24,10 @@
     {"id":"woodland-village-motion","title":"Woodland Village Motion","type":"video","file":"motion-woodland-village-1920x720.mp4","preview":"hd-woodland-village-1920x720.jpg","width":1920,"height":720,"duration":8},
     {"id":"ancient-gulf-courtyard-motion","title":"Ancient Gulf Motion","type":"video","file":"motion-ancient-gulf-courtyard-1920x720.mp4","preview":"hd-ancient-gulf-courtyard-1920x720.jpg","width":1920,"height":720,"duration":8},
     {"id":"gcc-flags-sunset-motion","title":"GCC Flags Motion","type":"video","file":"motion-gcc-flags-sunset-1920x720.mp4","preview":"hd-gcc-flags-sunset-1920x720.jpg","width":1920,"height":720,"duration":8},
-    {"id":"football-stadium-night-motion","title":"Football Stadium Motion","type":"video","file":"motion-football-stadium-night-1920x720.mp4","preview":"hd-football-stadium-night-1920x720.jpg","width":1920,"height":720,"duration":8}
+    {"id":"football-stadium-night-motion","title":"Football Stadium Motion","type":"video","file":"motion-football-stadium-night-1920x720.mp4","preview":"hd-football-stadium-night-1920x720.jpg","width":1920,"height":720,"duration":8},
+    {"id":"old-forest-house","title":"Old House in the Woods","type":"image","file":"hd-old-forest-house-1920x720.jpg","preview":"hd-old-forest-house-1920x720.jpg","width":1920,"height":720},
+    {"id":"multi-sport-arena","title":"Multi-Sport Arena","type":"image","file":"hd-multi-sport-arena-1920x720.jpg","preview":"hd-multi-sport-arena-1920x720.jpg","width":1920,"height":720},
+    {"id":"old-forest-house-motion","title":"Old Forest House Motion","type":"video","file":"motion-old-forest-house-1920x720.mp4","preview":"hd-old-forest-house-1920x720.jpg","width":1920,"height":720,"duration":8},
+    {"id":"multi-sport-arena-motion","title":"Multi-Sport Arena Motion","type":"video","file":"motion-multi-sport-arena-1920x720.mp4","preview":"hd-multi-sport-arena-1920x720.jpg","width":1920,"height":720,"duration":8}
   ]
 }
