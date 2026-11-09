@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "updated": "2026-11-08",
-  "baseUrl": "https://github.com/alzaubi/smartsplit-background/releases/download/background/",
+  "updated": "2026-11-09",
+  "baseUrl": "https://raw.githubusercontent.com/alzaubi/smartsplit-background/main/release-assets/",
   "items": [
     {"id":"aurora-lake","title":"Aurora Mountain Lake","type":"image","file":"hd-aurora-mountain-lake-1920x720.jpg","preview":"hd-aurora-mountain-lake-1920x720.jpg","width":1920,"height":720},
     {"id":"blue-waves","title":"Metallic Blue Waves","type":"image","file":"hd-metallic-blue-waves-1920x720.jpg","preview":"hd-metallic-blue-waves-1920x720.jpg","width":1920,"height":720},
@@ -12,6 +12,18 @@
     {"id":"blue-waves-motion","title":"Blue Waves Motion","type":"video","file":"motion-metallic-blue-waves-1920x720.mp4","preview":"hd-metallic-blue-waves-1920x720.jpg","width":1920,"height":720,"duration":8},
     {"id":"tropical-beach-motion","title":"Beach Sunset Motion","type":"video","file":"motion-tropical-beach-sunset-1920x720.mp4","preview":"hd-tropical-beach-sunset-1920x720.jpg","width":1920,"height":720,"duration":8},
     {"id":"golden-sky-motion","title":"Golden Sky Motion","type":"video","file":"motion-golden-storm-sky-1920x720.mp4","preview":"hd-golden-storm-sky-1920x720.jpg","width":1920,"height":720,"duration":8},
-    {"id":"gulf-city-motion","title":"City Waterfront Motion","type":"video","file":"motion-gulf-city-waterfront-1920x720.mp4","preview":"hd-gulf-city-waterfront-1920x720.jpg","width":1920,"height":720,"duration":8}
+    {"id":"gulf-city-motion","title":"City Waterfront Motion","type":"video","file":"motion-gulf-city-waterfront-1920x720.mp4","preview":"hd-gulf-city-waterfront-1920x720.jpg","width":1920,"height":720,"duration":8},
+    {"id":"deep-space-stars","title":"Deep Space & Stars","type":"image","file":"hd-deep-space-stars-1920x720.jpg","preview":"hd-deep-space-stars-1920x720.jpg","width":1920,"height":720},
+    {"id":"underwater-coral-sea","title":"Inside the Sea","type":"image","file":"hd-underwater-coral-sea-1920x720.jpg","preview":"hd-underwater-coral-sea-1920x720.jpg","width":1920,"height":720},
+    {"id":"woodland-village","title":"Woodland Village","type":"image","file":"hd-woodland-village-1920x720.jpg","preview":"hd-woodland-village-1920x720.jpg","width":1920,"height":720},
+    {"id":"ancient-gulf-courtyard","title":"Ancient Gulf Courtyard","type":"image","file":"hd-ancient-gulf-courtyard-1920x720.jpg","preview":"hd-ancient-gulf-courtyard-1920x720.jpg","width":1920,"height":720},
+    {"id":"gcc-flags-sunset","title":"GCC Flags at Sunset","type":"image","file":"hd-gcc-flags-sunset-1920x720.jpg","preview":"hd-gcc-flags-sunset-1920x720.jpg","width":1920,"height":720},
+    {"id":"football-stadium-night","title":"Football Stadium Night","type":"image","file":"hd-football-stadium-night-1920x720.jpg","preview":"hd-football-stadium-night-1920x720.jpg","width":1920,"height":720},
+    {"id":"deep-space-stars-motion","title":"Deep Space Motion","type":"video","file":"motion-deep-space-stars-1920x720.mp4","preview":"hd-deep-space-stars-1920x720.jpg","width":1920,"height":720,"duration":8},
+    {"id":"underwater-coral-sea-motion","title":"Inside the Sea Motion","type":"video","file":"motion-underwater-coral-sea-1920x720.mp4","preview":"hd-underwater-coral-sea-1920x720.jpg","width":1920,"height":720,"duration":8},
+    {"id":"woodland-village-motion","title":"Woodland Village Motion","type":"video","file":"motion-woodland-village-1920x720.mp4","preview":"hd-woodland-village-1920x720.jpg","width":1920,"height":720,"duration":8},
+    {"id":"ancient-gulf-courtyard-motion","title":"Ancient Gulf Motion","type":"video","file":"motion-ancient-gulf-courtyard-1920x720.mp4","preview":"hd-ancient-gulf-courtyard-1920x720.jpg","width":1920,"height":720,"duration":8},
+    {"id":"gcc-flags-sunset-motion","title":"GCC Flags Motion","type":"video","file":"motion-gcc-flags-sunset-1920x720.mp4","preview":"hd-gcc-flags-sunset-1920x720.jpg","width":1920,"height":720,"duration":8},
+    {"id":"football-stadium-night-motion","title":"Football Stadium Motion","type":"video","file":"motion-football-stadium-night-1920x720.mp4","preview":"hd-football-stadium-night-1920x720.jpg","width":1920,"height":720,"duration":8}
   ]
 }
