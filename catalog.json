@@ -3,22 +3,612 @@
   "updated": "2026-11-09",
   "baseUrl": "https://raw.githubusercontent.com/alzaubi/smartsplit-background/main/release-assets/",
   "items": [
-    {"id":"aurora-lake","title":"Aurora Mountain Lake","type":"image","file":"hd-aurora-mountain-lake-1920x720.jpg","preview":"hd-aurora-mountain-lake-1920x720.jpg","width":1920,"height":720},
-    {"id":"blue-waves","title":"Metallic Blue Waves","type":"image","file":"hd-metallic-blue-waves-1920x720.jpg","preview":"hd-metallic-blue-waves-1920x720.jpg","width":1920,"height":720},
-    {"id":"tropical-beach","title":"Tropical Beach Sunset","type":"image","file":"hd-tropical-beach-sunset-1920x720.jpg","preview":"hd-tropical-beach-sunset-1920x720.jpg","width":1920,"height":720},
-    {"id":"golden-sky","title":"Golden Storm Sky","type":"image","file":"hd-golden-storm-sky-1920x720.jpg","preview":"hd-golden-storm-sky-1920x720.jpg","width":1920,"height":720},
-    {"id":"gulf-city","title":"Gulf City Waterfront","type":"image","file":"hd-gulf-city-waterfront-1920x720.jpg","preview":"hd-gulf-city-waterfront-1920x720.jpg","width":1920,"height":720},
-    {"id":"deep-space-stars","title":"Deep Space & Stars","type":"image","file":"hd-deep-space-stars-1920x720.jpg","preview":"hd-deep-space-stars-1920x720.jpg","width":1920,"height":720},
-    {"id":"underwater-coral-sea","title":"Inside the Sea","type":"image","file":"hd-underwater-coral-sea-1920x720.jpg","preview":"hd-underwater-coral-sea-1920x720.jpg","width":1920,"height":720},
-    {"id":"woodland-village","title":"Woodland Village","type":"image","file":"hd-woodland-village-1920x720.jpg","preview":"hd-woodland-village-1920x720.jpg","width":1920,"height":720},
-    {"id":"ancient-gulf-courtyard","title":"Ancient Gulf Courtyard","type":"image","file":"hd-ancient-gulf-courtyard-1920x720.jpg","preview":"hd-ancient-gulf-courtyard-1920x720.jpg","width":1920,"height":720},
-    {"id":"gcc-flags-sunset","title":"GCC Flags at Sunset","type":"image","file":"hd-gcc-flags-sunset-1920x720.jpg","preview":"hd-gcc-flags-sunset-1920x720.jpg","width":1920,"height":720},
-    {"id":"football-stadium-night","title":"Football Stadium Night","type":"image","file":"hd-football-stadium-night-1920x720.jpg","preview":"hd-football-stadium-night-1920x720.jpg","width":1920,"height":720},
-    {"id":"deep-space-stars-motion","title":"Starry Night Timelapse","type":"video","file":"motion-deep-space-stars-1920x720.mp4","preview":"hd-deep-space-stars-1920x720.jpg","width":1920,"height":720,"duration":8},
-    {"id":"underwater-coral-sea-motion","title":"Coral Reef & Swimming Fish","type":"video","file":"motion-underwater-coral-sea-real-1920x720.mp4","preview":"hd-underwater-coral-sea-1920x720.jpg","width":1920,"height":720,"duration":8},
-    {"id":"woodland-village-motion","title":"Forest Trees in the Wind","type":"video","file":"motion-woodland-village-1920x720.mp4","preview":"hd-woodland-village-1920x720.jpg","width":1920,"height":720,"duration":8},
-    {"id":"football-stadium-night-motion","title":"Football Field Pan","type":"video","file":"motion-football-stadium-night-1920x720.mp4","preview":"hd-football-stadium-night-1920x720.jpg","width":1920,"height":720,"duration":8},
-    {"id":"old-forest-house","title":"Old House in the Woods","type":"image","file":"hd-old-forest-house-1920x720.jpg","preview":"hd-old-forest-house-1920x720.jpg","width":1920,"height":720},
-    {"id":"multi-sport-arena","title":"Multi-Sport Arena","type":"image","file":"hd-multi-sport-arena-1920x720.jpg","preview":"hd-multi-sport-arena-1920x720.jpg","width":1920,"height":720}
+    {
+      "id": "aurora-lake",
+      "title": "Aurora Mountain Lake",
+      "type": "image",
+      "file": "hd-aurora-mountain-lake-1920x720.jpg",
+      "preview": "hd-aurora-mountain-lake-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "blue-waves",
+      "title": "Metallic Blue Waves",
+      "type": "image",
+      "file": "hd-metallic-blue-waves-1920x720.jpg",
+      "preview": "hd-metallic-blue-waves-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "tropical-beach",
+      "title": "Tropical Beach Sunset",
+      "type": "image",
+      "file": "hd-tropical-beach-sunset-1920x720.jpg",
+      "preview": "hd-tropical-beach-sunset-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "golden-sky",
+      "title": "Golden Storm Sky",
+      "type": "image",
+      "file": "hd-golden-storm-sky-1920x720.jpg",
+      "preview": "hd-golden-storm-sky-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "gulf-city",
+      "title": "Gulf City Waterfront",
+      "type": "image",
+      "file": "hd-gulf-city-waterfront-1920x720.jpg",
+      "preview": "hd-gulf-city-waterfront-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "deep-space-stars",
+      "title": "Deep Space & Stars",
+      "type": "image",
+      "file": "hd-deep-space-stars-1920x720.jpg",
+      "preview": "hd-deep-space-stars-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "underwater-coral-sea",
+      "title": "Inside the Sea",
+      "type": "image",
+      "file": "hd-underwater-coral-sea-1920x720.jpg",
+      "preview": "hd-underwater-coral-sea-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "woodland-village",
+      "title": "Woodland Village",
+      "type": "image",
+      "file": "hd-woodland-village-1920x720.jpg",
+      "preview": "hd-woodland-village-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "ancient-gulf-courtyard",
+      "title": "Ancient Gulf Courtyard",
+      "type": "image",
+      "file": "hd-ancient-gulf-courtyard-1920x720.jpg",
+      "preview": "hd-ancient-gulf-courtyard-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "gcc-flags-sunset",
+      "title": "GCC Flags at Sunset",
+      "type": "image",
+      "file": "hd-gcc-flags-sunset-1920x720.jpg",
+      "preview": "hd-gcc-flags-sunset-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "football-stadium-night",
+      "title": "Football Stadium Night",
+      "type": "image",
+      "file": "hd-football-stadium-night-1920x720.jpg",
+      "preview": "hd-football-stadium-night-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "deep-space-stars-motion",
+      "title": "Starry Night Timelapse",
+      "type": "video",
+      "file": "motion-deep-space-stars-1920x720.mp4",
+      "preview": "hd-deep-space-stars-1920x720.jpg",
+      "width": 1920,
+      "height": 720,
+      "duration": 8
+    },
+    {
+      "id": "underwater-coral-sea-motion",
+      "title": "Coral Reef & Swimming Fish",
+      "type": "video",
+      "file": "motion-underwater-coral-sea-real-1920x720.mp4",
+      "preview": "hd-underwater-coral-sea-1920x720.jpg",
+      "width": 1920,
+      "height": 720,
+      "duration": 8
+    },
+    {
+      "id": "woodland-village-motion",
+      "title": "Forest Trees in the Wind",
+      "type": "video",
+      "file": "motion-woodland-village-1920x720.mp4",
+      "preview": "hd-woodland-village-1920x720.jpg",
+      "width": 1920,
+      "height": 720,
+      "duration": 8
+    },
+    {
+      "id": "football-stadium-night-motion",
+      "title": "Football Field Pan",
+      "type": "video",
+      "file": "motion-football-stadium-night-1920x720.mp4",
+      "preview": "hd-football-stadium-night-1920x720.jpg",
+      "width": 1920,
+      "height": 720,
+      "duration": 8
+    },
+    {
+      "id": "old-forest-house",
+      "title": "Old House in the Woods",
+      "type": "image",
+      "file": "hd-old-forest-house-1920x720.jpg",
+      "preview": "hd-old-forest-house-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "multi-sport-arena",
+      "title": "Multi-Sport Arena",
+      "type": "image",
+      "file": "hd-multi-sport-arena-1920x720.jpg",
+      "preview": "hd-multi-sport-arena-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-animals-04-1920x720",
+      "title": "Wildlife Landscape",
+      "type": "image",
+      "file": "animals-04-1920x720.jpg",
+      "preview": "animals-04-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-exec-32e5d596-0e68-4fcd-a920-8f8df0707bc3",
+      "title": "Generated Wallpaper 01",
+      "type": "image",
+      "file": "exec-32e5d596-0e68-4fcd-a920-8f8df0707bc3.png",
+      "preview": "exec-32e5d596-0e68-4fcd-a920-8f8df0707bc3.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "generated-exec-3e5261a0-9647-49b8-948b-1a68de43cb71",
+      "title": "Generated Wallpaper 02",
+      "type": "image",
+      "file": "exec-3e5261a0-9647-49b8-948b-1a68de43cb71.png",
+      "preview": "exec-3e5261a0-9647-49b8-948b-1a68de43cb71.png",
+      "width": 2048,
+      "height": 768
+    },
+    {
+      "id": "generated-exec-44075a79-fd07-495b-a086-09981fbd0166",
+      "title": "Generated Wallpaper 03",
+      "type": "image",
+      "file": "exec-44075a79-fd07-495b-a086-09981fbd0166.png",
+      "preview": "exec-44075a79-fd07-495b-a086-09981fbd0166.png",
+      "width": 2048,
+      "height": 768
+    },
+    {
+      "id": "generated-exec-48510be9-359d-413c-a587-7317a21c4c73",
+      "title": "Generated Wallpaper 04",
+      "type": "image",
+      "file": "exec-48510be9-359d-413c-a587-7317a21c4c73.png",
+      "preview": "exec-48510be9-359d-413c-a587-7317a21c4c73.png",
+      "width": 2048,
+      "height": 768
+    },
+    {
+      "id": "generated-exec-54849905-6e39-4ce1-b7c6-c1c92f5c0185",
+      "title": "Generated Wallpaper 05",
+      "type": "image",
+      "file": "exec-54849905-6e39-4ce1-b7c6-c1c92f5c0185.png",
+      "preview": "exec-54849905-6e39-4ce1-b7c6-c1c92f5c0185.png",
+      "width": 2048,
+      "height": 768
+    },
+    {
+      "id": "generated-exec-56d1eed7-a7f8-4ca2-aa07-d8e124957c81",
+      "title": "Generated Wallpaper 06",
+      "type": "image",
+      "file": "exec-56d1eed7-a7f8-4ca2-aa07-d8e124957c81.png",
+      "preview": "exec-56d1eed7-a7f8-4ca2-aa07-d8e124957c81.png",
+      "width": 2048,
+      "height": 768
+    },
+    {
+      "id": "generated-exec-821d87a2-ebf9-40b7-9b3e-f24a8af7e895",
+      "title": "Generated Wallpaper 07",
+      "type": "image",
+      "file": "exec-821d87a2-ebf9-40b7-9b3e-f24a8af7e895.png",
+      "preview": "exec-821d87a2-ebf9-40b7-9b3e-f24a8af7e895.png",
+      "width": 2048,
+      "height": 768
+    },
+    {
+      "id": "generated-exec-96134224-b918-426b-b6cb-6128e0512fcd",
+      "title": "Generated Wallpaper 08",
+      "type": "image",
+      "file": "exec-96134224-b918-426b-b6cb-6128e0512fcd.png",
+      "preview": "exec-96134224-b918-426b-b6cb-6128e0512fcd.png",
+      "width": 2048,
+      "height": 768
+    },
+    {
+      "id": "generated-exec-976cea56-21d5-4278-8c28-948137f094e2",
+      "title": "Generated Wallpaper 09",
+      "type": "image",
+      "file": "exec-976cea56-21d5-4278-8c28-948137f094e2.png",
+      "preview": "exec-976cea56-21d5-4278-8c28-948137f094e2.png",
+      "width": 2048,
+      "height": 768
+    },
+    {
+      "id": "generated-exec-af7965a2-28e0-4d1e-bad6-6d2330fb6378",
+      "title": "Generated Wallpaper 10",
+      "type": "image",
+      "file": "exec-af7965a2-28e0-4d1e-bad6-6d2330fb6378.png",
+      "preview": "exec-af7965a2-28e0-4d1e-bad6-6d2330fb6378.png",
+      "width": 2048,
+      "height": 768
+    },
+    {
+      "id": "generated-exec-c25d3cda-b906-44d3-b9d9-a7632d644945",
+      "title": "Generated Wallpaper 11",
+      "type": "image",
+      "file": "exec-c25d3cda-b906-44d3-b9d9-a7632d644945.png",
+      "preview": "exec-c25d3cda-b906-44d3-b9d9-a7632d644945.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "generated-exec-c5ea27e5-4229-4491-b947-0f2a8fa9317f",
+      "title": "Generated Wallpaper 12",
+      "type": "image",
+      "file": "exec-c5ea27e5-4229-4491-b947-0f2a8fa9317f.png",
+      "preview": "exec-c5ea27e5-4229-4491-b947-0f2a8fa9317f.png",
+      "width": 2048,
+      "height": 768
+    },
+    {
+      "id": "generated-exec-ceadf7d1-12fe-4cf1-86cd-fc477e20491a",
+      "title": "Generated Wallpaper 13",
+      "type": "image",
+      "file": "exec-ceadf7d1-12fe-4cf1-86cd-fc477e20491a.png",
+      "preview": "exec-ceadf7d1-12fe-4cf1-86cd-fc477e20491a.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "generated-exec-cf7b9dfd-166a-4555-b1a6-6d6e3739c69b",
+      "title": "Generated Wallpaper 14",
+      "type": "image",
+      "file": "exec-cf7b9dfd-166a-4555-b1a6-6d6e3739c69b.png",
+      "preview": "exec-cf7b9dfd-166a-4555-b1a6-6d6e3739c69b.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "generated-exec-f9ab5399-ba97-414c-bff9-0fa5a8422664",
+      "title": "Generated Wallpaper 15",
+      "type": "image",
+      "file": "exec-f9ab5399-ba97-414c-bff9-0fa5a8422664.png",
+      "preview": "exec-f9ab5399-ba97-414c-bff9-0fa5a8422664.png",
+      "width": 1983,
+      "height": 793
+    },
+    {
+      "id": "generated-exec-fe98b53a-ec09-41a2-97c4-1c8512e5f555",
+      "title": "Generated Wallpaper 16",
+      "type": "image",
+      "file": "exec-fe98b53a-ec09-41a2-97c4-1c8512e5f555.png",
+      "preview": "exec-fe98b53a-ec09-41a2-97c4-1c8512e5f555.png",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": "generated-falcon-original-01-1920x720",
+      "title": "Falcon Portrait 1",
+      "type": "image",
+      "file": "falcon-original-01-1920x720.jpg",
+      "preview": "falcon-original-01-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-falcon-original-02-1920x720",
+      "title": "Falcon Portrait 2",
+      "type": "image",
+      "file": "falcon-original-02-1920x720.jpg",
+      "preview": "falcon-original-02-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-falcon-original-03-1920x720",
+      "title": "Falcon Portrait 3",
+      "type": "image",
+      "file": "falcon-original-03-1920x720.jpg",
+      "preview": "falcon-original-03-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-falcon-original-04-1920x720",
+      "title": "Falcon Portrait 4",
+      "type": "image",
+      "file": "falcon-original-04-1920x720.jpg",
+      "preview": "falcon-original-04-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-falcon-original-05-1920x720",
+      "title": "Falcon Portrait 5",
+      "type": "image",
+      "file": "falcon-original-05-1920x720.jpg",
+      "preview": "falcon-original-05-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-falcon-qatar-01-1920x720",
+      "title": "Qatar Falcon 1",
+      "type": "image",
+      "file": "falcon-qatar-01-1920x720.jpg",
+      "preview": "falcon-qatar-01-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-falcon-qatar-02-1920x720",
+      "title": "Qatar Falcon 2",
+      "type": "image",
+      "file": "falcon-qatar-02-1920x720.jpg",
+      "preview": "falcon-qatar-02-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-flowers-01-1920x720",
+      "title": "Flower Scene 1",
+      "type": "image",
+      "file": "flowers-01-1920x720.jpg",
+      "preview": "flowers-01-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-flowers-02-1920x720",
+      "title": "Flower Scene 2",
+      "type": "image",
+      "file": "flowers-02-1920x720.jpg",
+      "preview": "flowers-02-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-flowers-07-1920x720",
+      "title": "Flower Scene 7",
+      "type": "image",
+      "file": "flowers-07-1920x720.jpg",
+      "preview": "flowers-07-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-flowers-08-1920x720",
+      "title": "Flower Scene 8",
+      "type": "image",
+      "file": "flowers-08-1920x720.jpg",
+      "preview": "flowers-08-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-flowers-09-1920x720",
+      "title": "Flower Scene 9",
+      "type": "image",
+      "file": "flowers-09-1920x720.jpg",
+      "preview": "flowers-09-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-flowers-10-1920x720",
+      "title": "Flower Scene 10",
+      "type": "image",
+      "file": "flowers-10-1920x720.jpg",
+      "preview": "flowers-10-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-qatar-ruler-hamad-memorial-1920x720",
+      "title": "Father Amir Hamad — Memorial",
+      "type": "image",
+      "file": "qatar-ruler-hamad-memorial-1920x720.jpg",
+      "preview": "qatar-ruler-hamad-memorial-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-qatar-ruler-tamim-centered-1920x720",
+      "title": "Amir Tamim — Qatar",
+      "type": "image",
+      "file": "qatar-ruler-tamim-centered-1920x720.jpg",
+      "preview": "qatar-ruler-tamim-centered-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-animal-01-1920x720",
+      "title": "Wildlife Scene 1",
+      "type": "image",
+      "file": "scenic-animal-01-1920x720.jpg",
+      "preview": "scenic-animal-01-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-animal-02-1920x720",
+      "title": "Wildlife Scene 2",
+      "type": "image",
+      "file": "scenic-animal-02-1920x720.jpg",
+      "preview": "scenic-animal-02-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-animal-03-1920x720",
+      "title": "Wildlife Scene 3",
+      "type": "image",
+      "file": "scenic-animal-03-1920x720.jpg",
+      "preview": "scenic-animal-03-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-animal-04-1920x720",
+      "title": "Wildlife Scene 4",
+      "type": "image",
+      "file": "scenic-animal-04-1920x720.jpg",
+      "preview": "scenic-animal-04-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-animal-05-1920x720",
+      "title": "Wildlife Scene 5",
+      "type": "image",
+      "file": "scenic-animal-05-1920x720.jpg",
+      "preview": "scenic-animal-05-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-animal-06-1920x720",
+      "title": "Wildlife Scene 6",
+      "type": "image",
+      "file": "scenic-animal-06-1920x720.jpg",
+      "preview": "scenic-animal-06-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-flower-01-1920x720",
+      "title": "Flower Landscape 1",
+      "type": "image",
+      "file": "scenic-flower-01-1920x720.jpg",
+      "preview": "scenic-flower-01-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-flower-02-1920x720",
+      "title": "Flower Landscape 2",
+      "type": "image",
+      "file": "scenic-flower-02-1920x720.jpg",
+      "preview": "scenic-flower-02-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-flower-03-1920x720",
+      "title": "Flower Landscape 3",
+      "type": "image",
+      "file": "scenic-flower-03-1920x720.jpg",
+      "preview": "scenic-flower-03-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-flower-04-1920x720",
+      "title": "Flower Landscape 4",
+      "type": "image",
+      "file": "scenic-flower-04-1920x720.jpg",
+      "preview": "scenic-flower-04-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-flower-05-1920x720",
+      "title": "Flower Landscape 5",
+      "type": "image",
+      "file": "scenic-flower-05-1920x720.jpg",
+      "preview": "scenic-flower-05-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-flower-06-1920x720",
+      "title": "Flower Landscape 6",
+      "type": "image",
+      "file": "scenic-flower-06-1920x720.jpg",
+      "preview": "scenic-flower-06-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-sea-01-1920x720",
+      "title": "Ocean Scene 1",
+      "type": "image",
+      "file": "scenic-sea-01-1920x720.jpg",
+      "preview": "scenic-sea-01-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-sea-02-1920x720",
+      "title": "Ocean Scene 2",
+      "type": "image",
+      "file": "scenic-sea-02-1920x720.jpg",
+      "preview": "scenic-sea-02-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-sea-03-1920x720",
+      "title": "Ocean Scene 3",
+      "type": "image",
+      "file": "scenic-sea-03-1920x720.jpg",
+      "preview": "scenic-sea-03-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-sea-04-1920x720",
+      "title": "Ocean Scene 4",
+      "type": "image",
+      "file": "scenic-sea-04-1920x720.jpg",
+      "preview": "scenic-sea-04-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-sea-05-1920x720",
+      "title": "Ocean Scene 5",
+      "type": "image",
+      "file": "scenic-sea-05-1920x720.jpg",
+      "preview": "scenic-sea-05-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    },
+    {
+      "id": "generated-scenic-sea-06-1920x720",
+      "title": "Ocean Scene 6",
+      "type": "image",
+      "file": "scenic-sea-06-1920x720.jpg",
+      "preview": "scenic-sea-06-1920x720.jpg",
+      "width": 1920,
+      "height": 720
+    }
   ]
 }
